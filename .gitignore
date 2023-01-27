@@ -56,3 +56,13 @@ test/weights-improvement-000002-0.012103.hdf5
 test/weights-improvement-000003-0.011763.hdf5
 test/weights-improvement-000004-0.011428.hdf5
 test/weights-improvement-000005-0.011056.hdf5
+test_1100_ver/weights-improvement-000004-0.010304.hdf5
+test_1100_ver/weights-improvement-000003-0.010513.hdf5
+test_1100_ver/weights-improvement-000002-0.011232.hdf5
+test_1100_ver/weights-improvement-000001-0.012862.hdf5
+test_1100_hor/weights-improvement-000008-0.062977.hdf5
+test_1100_hor/weights-improvement-000007-0.063121.hdf5
+test_1100_hor/weights-improvement-000006-0.063122.hdf5
+test_1100_hor/weights-improvement-000005-0.063164.hdf5
+test_1100_hor/weights-improvement-000004-0.063227.hdf5
+test_1100_hor/weights-improvement-000001-0.063336.hdf5
