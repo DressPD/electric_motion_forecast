@@ -10,19 +10,24 @@ this repository can be dinamically linked and run in Google Colab, how?
 
 when preferred, the user can use any local IDE for development and push the local notebook to a branch of this repository
 that can be accessed via Colab as explained in point 2.
-*N.B.:* the code for data reading will be different in local environment and Google Colab -> the user need to create a new cell and comment the other one when not used, but I would adice to use only Colab and GIT UI for this project
 
-# Challenge description and processes via CRISP framework
+## Guide of repository's notebooks
+
+- combinedataframe notebook: used to combine discrete and continuos data for both horizontal an vertical set ups. They are combined associating a value from continuous data with a value from discrete data such that the results are two dataset with A,A,B,B,C,C,.. structure
+
+- data_analysy_model_selection notebook: data are explored via visualization and summary statistics, we trained different models using train, validation and test framework to define the most accurate model as CNN LSTM neural network for series analysis
+
+- horizontal model notebook: ...
+
+- vertical model notebook: ...
+
+- models evaluation notebook: ...
+
+## Challenge description and processes via CRISP framework
 1. Business Understanding
 2. Data Understanding
 3. Data Preparation
 4. Modelling
 5. Evaluation
 6. Deployment
-
-## Business understanding
-done with regular Q&A sessions and organized in Drive/Sharepoint
-
-## Data Understanding
-ongoing analysis for data features and patterns supported via descriptive statistics and exploratory data analysis
 
